@@ -1,0 +1,5 @@
+Training Time,Iterations,Training Tokens (M),Train Loss,Val Loss,Train-Val Gap,Perplexity
+10 min,500,30.72,4.9903,5.1484,0.1581,172.16
+30 min,1500,92.16,4.1537,4.4982,0.3445,89.86
+60 min,3000,184.32,3.3508,4.264,0.9132,71.09
+120 min,6000,368.64,2.1496,4.9558,2.8062,142
